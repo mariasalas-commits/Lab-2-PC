@@ -1,5 +1,5 @@
 # 📖 Biblical Text Mining
-### Laboratorio 2 — Programación Científica | UCN 2026
+### Laboratorio 2 — Programación Científica 2026
 **Profesor:** Cristhian A. Rabi R.
 
 ---
@@ -155,5 +155,5 @@ VADER fue diseñado para redes sociales modernas, no para texto bíblico del sig
 ---
 
 ## Autores
+Paulette Bauer, Valentina Vergara, María Salas
 
-Equipo — Ingeniería Civil en Computación e Informática, UCN 2026
